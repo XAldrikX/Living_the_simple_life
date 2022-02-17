@@ -5,7 +5,7 @@
   <img src="https://user-images.githubusercontent.com/88796366/154341468-6788b3db-6fd4-4799-b9ee-15212bb4a3b5.png">
 </div>
 
-Esse e mais um trabalho que faco para o curso "The Frontend career path" by Scrimba onde dessa vez eu estudei mais a fundo como usar Flexbox para criar colunas, widges e uma navigation bar.
+Esse e mais um trabalho que faço para o curso "The Frontend career path" by Scrimba onde dessa vez eu estudei mais a fundo como usar Flexbox para criar colunas, widges e uma navigation bar.
 Porem a parte mais importante desse modulo foi aprender como pensar responsivamente usando media queries, nesse trabalho tive a oportunidade de pela primeira vez fazer um projeto a partir de um template no Adobe Xd (link para quem tiver interesse de ver o template https://xd.adobe.com/spec/75d448ea-569a-4b7e-721b-9bbd3b2b97b9-03e5/screen/c27ed1eb-3c57-41a8-acb2-90ecaf25f93b/) <br>
 
 Primeiro eu fiz o layout da versao mobile, dessa forma usando media query eu tive menos trabalho em ajustar o layout para telas maiores. 
